@@ -1,0 +1,1 @@
+# Predicting-Pitch-Velocity-With-Forceplate-Strength-Tests-and-Kinatrax-Data
